@@ -1,0 +1,16 @@
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\D11-RJA-CAPSTONE.exe
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\D11-RJA-CAPSTONE.deps.json
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\D11-RJA-CAPSTONE.runtimeconfig.json
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\D11-RJA-CAPSTONE.runtimeconfig.dev.json
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\D11-RJA-CAPSTONE.dll
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\ref\D11-RJA-CAPSTONE.dll
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\bin\Debug\net5.0\D11-RJA-CAPSTONE.pdb
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.csproj.AssemblyReference.cache
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.AssemblyInfoInputs.cache
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.AssemblyInfo.cs
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.csproj.CoreCompileInputs.cache
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.dll
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\ref\D11-RJA-CAPSTONE.dll
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.pdb
+C:\Users\casaro\source\repos\D11-RJA-CAPSTONE\D11-RJA-CAPSTONE\obj\Debug\net5.0\D11-RJA-CAPSTONE.genruntimeconfig.cache
