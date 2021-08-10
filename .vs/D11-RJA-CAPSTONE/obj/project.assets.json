@@ -1,66 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    ".NETFramework,Version=v5.0": {},
+    ".NETFramework,Version=v5.0/win7-x86": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net5.0": []
+    ".NETFramework,Version=v5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\casaro\\.nuget\\packages\\": {}
+    "C:\\Users\\XboxZ\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\casaro\\source\\repos\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE.csproj",
+      "projectUniqueName": "C:\\Users\\XboxZ\\Documents\\GitHub\\SRJAPROJ\\.vs\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE.csproj",
       "projectName": "D11-RJA-CAPSTONE",
-      "projectPath": "C:\\Users\\casaro\\source\\repos\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE.csproj",
-      "packagesPath": "C:\\Users\\casaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\casaro\\source\\repos\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE\\obj\\",
+      "projectPath": "C:\\Users\\XboxZ\\Documents\\GitHub\\SRJAPROJ\\.vs\\D11-RJA-CAPSTONE\\D11-RJA-CAPSTONE.csproj",
+      "packagesPath": "C:\\Users\\XboxZ\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\XboxZ\\Documents\\GitHub\\SRJAPROJ\\.vs\\D11-RJA-CAPSTONE\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\casaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\XboxZ\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net50"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net50": {
           "projectReferences": {}
         }
-      },
-      "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
-        "imports": [
-          "net461",
-          "net462",
-          "net47",
-          "net471",
-          "net472",
-          "net48"
-        ],
-        "assetTargetFallback": true,
-        "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+      "net50": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
       }
     }
   }

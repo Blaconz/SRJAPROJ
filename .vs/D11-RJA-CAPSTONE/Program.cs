@@ -10,7 +10,7 @@ namespace D11_RJA_CAPSTONE
 
 
 
-            string[] Pkeys = new string[] { "We", "e", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" };
+            string[] Pkeys = new string[] { "We", "e", "e", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "", "" };
             string[] Nkeys = new string[] { "" };
             string[] array = new string[12];
 
